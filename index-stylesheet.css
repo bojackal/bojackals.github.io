@@ -50,9 +50,6 @@ body {
 }
 
 #button-text {
-    display: inline-block;
-    text-align: left;
-    justify-content: left;
     font-size: 150%;
     font-weight: 500;
     font-style: bold;
