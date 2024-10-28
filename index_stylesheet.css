@@ -6,31 +6,7 @@ body {
 
 @font-face {
     font-family: 'Monaspace - Argon';
-    src: url(savedfonts/MonaspaceArgon-Medium.otf);
-    font-weight: medium;
-}
-
-@font-face {
-    font-family: 'Monaspace - Argon';
-    src: url(savedfonts/MonaspaceArgon-Light.otf);
-    font-weight: light;
-}
-
-@font-face {
-    font-family: 'Monaspace - Argon';
     src: url(savedfonts/MonaspaceArgon-Regular.otf);
-}
-
-@font-face {
-    font-family: 'Monaspace - Argon';
-    src: url(savedfonts/MonaspaceArgon-Bold.otf);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'Monaspace - Argon';
-    src: url(savedfonts/MonaspaceArgon-Italic.otf);
-    font-style: italic;
 }
 
 .titlecontainer {
