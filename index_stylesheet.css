@@ -1,1 +1,20 @@
 /* INDEX STYLESHEET! */
+
+body {
+    background-color: darkgray;
+}
+
+.maintitle {
+    text-align: center;
+    background-color: rgb(50, 132, 200);
+    position: sticky;
+    top: 0px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    color: black;
+    width: 35%;
+    margin: 15px auto 25px auto;
+    padding: 1px;
+}
