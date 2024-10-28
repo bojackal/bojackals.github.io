@@ -6,7 +6,7 @@ body {
 
 @font-face {
     font-family: "Monaspace-Argon";
-    src: url(savedfonts/MonaspaceArgon-Regular.otf);
+    src: url(MonaspaceArgon-Regular.otf);
 }
 
 .title-container {
