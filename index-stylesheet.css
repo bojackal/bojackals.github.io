@@ -38,10 +38,11 @@ body {
 
 .button {
     border-style: dashed;
+    border-width: 5px;
     background-color: rgb(50, 132, 200);
     margin: 5px 10px;
     padding: 15px;
     border-radius: 10px;
-    font-size: 100%;
+    font-size: 110%;
     font-family: 'Monaspace Argon', Times, serif;
 }
