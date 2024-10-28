@@ -1,49 +1,62 @@
 /* INDEX STYLESHEET! */
 
 body {
-    background-color: black;
-}
-
-@font-face {
-    font-family: "Monaspace Argon";
-    src: url(MonaspaceArgon-Regular.otf);
+    background-color: rgb(85, 85, 85);
 }
 
 .title-container {
     text-align: center;
-    background-color: rgb(50, 132, 200);
+    background-image: radial-gradient(rgb(52, 94, 180), rgb(56, 189, 83), rgb(254, 190, 0));
     position: sticky;
     font-size: 25px;
-    font-family: "Monaspace Argon", serif;
-    color: black;
+    font-family: "Times", serif;
+    color: white;
     margin: 15px auto 25px;
     border-radius: 10px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    font-style: bold;
+    flex-wrap: wrap;
+    width: 35%;
+    text-shadow: 3px 3px 0 black;
+    border: 5px solid white;
 }
 
 .button-row-container {
-    background-color: rgb(49, 130, 65);
+    background-color: rgb(125, 125, 125);
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     margin: 15px auto 25px;
-    padding: 15px 10px;
+    padding: 5px;
     border-radius: 10px;
+    border: 5px solid white;
 }
 
 .button-item {
     border: solid;
     border-style: solid;
-    border-color: rgb(38, 100, 150);
+    border-color: white;
     border-width: 2px;
     background-color: rgb(50, 132, 200);
     margin: 5px 10px;
     padding: 15px;
     border-radius: 10px;
     font-size: 110%;
-    font-family: 'Monaspace Argon', Times, serif;
+    font-family: 'Times', Arial, Helvetica, serif;
+}
+
+#button-text {
+    display: inline-block;
+    text-align: left;
+    justify-content: left;
+    font-size: 150%;
+    font-weight: 500;
+    font-style: bold;
+    background-image: radial-gradient(rgb(52, 94, 180), rgb(56, 189, 83), rgb(254, 190, 0));
+    padding: 2px;
+    border-radius: 10px;
 }
