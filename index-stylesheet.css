@@ -9,7 +9,7 @@ body {
     background-image: radial-gradient(rgb(52, 94, 180), rgb(56, 189, 83), rgb(254, 190, 0));
     position: sticky;
     font-size: 25px;
-    font-family: "Times", serif;
+    font-family: "Times", Arial, Helvetica, serif;
     color: white;
     margin: 15px auto 25px;
     border-radius: 10px;
